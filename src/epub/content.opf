@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/edgar-rice-burroughs/pirates-of-venus</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2026-07-16T18:46:24Z</dc:date>
+		<meta property="dcterms:modified">2026-07-16T18:46:24Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<meta property="rdf:type">http://schema.org/Book</meta>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
@@ -46,15 +46,14 @@
 		<meta property="group-position" refines="#collection-1">1</meta>
 		<dc:description id="description">A space traveler accidentally finds himself on Venus and must learn the local customs to survive.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Carson Napier is a wealthy man who builds his own rocket ship to visit the places on Mars he has heard about. But when he fails to account for the moon’s gravity when plotting his course from Earth to Mars, he is thrown wildly off course. Finding himself on Venus, he must learn the local custom and take his part in local conflicts in order to survive.&lt;/p&gt;
-			&lt;p&gt;&lt;i&gt;Pirates of Venus&lt;/i&gt; is the first of &lt;a href="https://standardebooks.org/ebooks/edgar-rice-burroughs"&gt;Edgar Rice Burroughs’&lt;/a&gt; &lt;a href="https://standardebooks.org/collections/venus"&gt;Venus series&lt;/a&gt; and the first book featuring the protagonist Carson Napier. The book contains elements of political satire as well, satirizing Soviet-style Communism through the Thorists. Like Burroghs’ &lt;a href="https://standardebooks.org/collections/martian"&gt;John Carter of Mars&lt;/a&gt; books, the Carson Napier books have gone on to influence science fiction writers for generations.&lt;/p&gt;
+			&lt;p&gt;Carson Napier, a very wealthy man, builds a rocket ship to visit Mars, only to find himself thrown wildly off course when he fails to account for the moon’s gravity while plotting his course. Finding himself on Venus instead of Mars, he must learn the local customs and take part in local conflicts in order to survive.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Pirates of Venus&lt;/i&gt; is the first of &lt;a href="https://standardebooks.org/ebooks/edgar-rice-burroughs"&gt;Edgar Rice Burroughs’&lt;/a&gt; &lt;a href="https://standardebooks.org/collections/venus"&gt;Venus series&lt;/a&gt; and the first book to feature the protagonist Carson Napier. While it’s a typical Burroughs-style space adventure, it also contains elements of political satire, with Soviet-style Communism satirized via the villainous Thorists.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/70195</dc:source>
 		<dc:source>https://archive.org/details/ace-f-179-edgar-rice-burroughs-pirates-of-venus-gorgon-776</dc:source>
-		<meta property="se:production-notes">Replace Cover with First Edition Cover from 1931 Once Public Domain</meta>
-		<meta property="schema:wordCount">WORD_COUNT</meta>
-		<meta property="schema:educationalLevel">READING_EASE</meta>
+		<meta property="schema:wordCount">60794</meta>
+		<meta property="schema:educationalLevel">67.59</meta>
 		<link href="https://en.wikipedia.org/wiki/Pirates_of_Venus" rel="schema:sameAs"/>
 		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
 		<meta property="rdf:type" refines="#vcs-repository">http://schema.org/SoftwareSourceCode</meta>
@@ -95,6 +94,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Vince Rice</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Rice, Vince</meta>
+		<link href="https://www.brokenandsaved.com/" refines="#producer-2" rel="schema:url"/>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
