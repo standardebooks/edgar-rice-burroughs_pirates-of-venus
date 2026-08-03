@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/edgar-rice-burroughs/pirates-of-venus</dc:identifier>
 		<dc:date>2026-07-16T18:46:24Z</dc:date>
@@ -44,11 +44,11 @@
 		<meta id="collection-1" property="belongs-to-collection">Venus</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">1</meta>
-		<dc:description id="description">A space traveler accidentally finds himself on Venus and must learn the local customs to survive.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A space traveler accidentally finds himself on Venus and must learn the local customs to survive.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;Carson Napier, a very wealthy man, builds a rocket ship to visit Mars, only to find himself thrown wildly off course when he fails to account for the moon’s gravity while plotting his course. Finding himself on Venus instead of Mars, he must learn the local customs and take part in local conflicts in order to survive.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;Pirates of Venus&lt;/i&gt; is the first of &lt;a href="https://standardebooks.org/ebooks/edgar-rice-burroughs"&gt;Edgar Rice Burroughs’&lt;/a&gt; &lt;a href="https://standardebooks.org/collections/venus"&gt;Venus series&lt;/a&gt; and the first book to feature the protagonist Carson Napier. While it’s a typical Burroughs-style space adventure, it also contains elements of political satire, with Soviet-style Communism satirized via the villainous Thorists.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/70195</dc:source>
 		<dc:source>https://archive.org/details/ace-f-179-edgar-rice-burroughs-pirates-of-venus-gorgon-776</dc:source>
