@@ -44,7 +44,7 @@
 		<meta id="collection-1" property="belongs-to-collection">Venus</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">1</meta>
-		<dc:abstract>A space traveler accidentally finds himself on Venus and must learn the local customs to survive.</dc:abstract>
+		<meta property="schema:abstract">A space traveler accidentally finds himself on Venus and must learn the local customs to survive.</meta>
 		<dc:description>
 			&lt;p&gt;Carson Napier, a very wealthy man, builds a rocket ship to visit Mars, only to find himself thrown wildly off course when he fails to account for the moon’s gravity while plotting his course. Finding himself on Venus instead of Mars, he must learn the local customs and take part in local conflicts in order to survive.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;Pirates of Venus&lt;/i&gt; is the first of &lt;a href="https://standardebooks.org/ebooks/edgar-rice-burroughs"&gt;Edgar Rice Burroughs’&lt;/a&gt; &lt;a href="https://standardebooks.org/collections/venus"&gt;Venus series&lt;/a&gt; and the first book to feature the protagonist Carson Napier. While it’s a typical Burroughs-style space adventure, it also contains elements of political satire, with Soviet-style Communism satirized via the villainous Thorists.&lt;/p&gt;
