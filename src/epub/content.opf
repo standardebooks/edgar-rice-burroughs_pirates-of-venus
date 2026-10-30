@@ -70,13 +70,13 @@
 		<link href="https://id.loc.gov/authorities/names/n79148946.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Al Haines</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">Al, Haines</meta>
+		<meta property="file-as" refines="#transcriber-1">Haines, Al</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">Stephen Hutcheson</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">Stephen, Hutcheson</meta>
+		<meta property="file-as" refines="#transcriber-2">Hutcheson, Stephen</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-3">Greg Weeks</dc:contributor>
-		<meta property="file-as" refines="#transcriber-3">Greg, Weeks</meta>
+		<meta property="file-as" refines="#transcriber-3">Weeks, Greg</meta>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-4">Mary Meehan</dc:contributor>
 		<meta property="file-as" refines="#transcriber-4">Meehan, Mary</meta>
